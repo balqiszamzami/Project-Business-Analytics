@@ -1,6 +1,6 @@
 # Project-Business-Analytics
 
-Analyzing Paid Search Campaign Data for Mall Businesses
+This is final project Business Analytics in Pacmann course. As a data analyst, being able to explore data, find solutions to problems, and produce actionable insights is a crucial skill that must be possessed.
 
 Tableau  : https://public.tableau.com/views/DashboardofShoppingMallPaidSearchCampaignDataset/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
